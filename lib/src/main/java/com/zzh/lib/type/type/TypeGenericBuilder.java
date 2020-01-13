@@ -1,8 +1,8 @@
 package com.zzh.lib.type.type;
 
-import com.zzh.lib.type.lib.exception.TypeException;
-import com.zzh.lib.type.lib.type.impl.ParameterizedTypeImpl;
-import com.zzh.lib.type.lib.type.impl.WildcardTypeImpl;
+import com.zzh.lib.type.exception.TypeException;
+import com.zzh.lib.type.type.impl.ParameterizedTypeImpl;
+import com.zzh.lib.type.type.impl.WildcardTypeImpl;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
