@@ -1,5 +1,5 @@
 
-package com.zzh.lib.exception;
+package com.zzh.lib.type.exception;
 
 public class TypeException extends RuntimeException {
     public TypeException() {

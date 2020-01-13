@@ -1,4 +1,5 @@
 rootProject.name = 'TypeGenerics'
 rootProject.name = 'TypeGenerics'
 rootProject.name = 'TypeGenerics'
+include 'lib'
 

@@ -1,6 +1,6 @@
-package com.zzh.lib.type.impl;
+package com.zzh.lib.type.type.impl;
 
-import com.zzh.lib.exception.TypeException;
+import com.zzh.lib.type.lib.exception.TypeException;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

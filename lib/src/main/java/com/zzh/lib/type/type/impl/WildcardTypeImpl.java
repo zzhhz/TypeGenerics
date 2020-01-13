@@ -1,4 +1,4 @@
-package com.zzh.lib.type.impl;
+package com.zzh.lib.type.type.impl;
 
 import java.lang.reflect.Type;
 import java.lang.reflect.WildcardType;
